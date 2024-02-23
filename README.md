@@ -5,6 +5,8 @@
 
 ![GAME TITLE](https://github.com/PranavMishra17/cs426_Asgn2_Pranav_Mishra/blob/master/GAMETITLE.jpg)
 
+## Gameplay https://www.youtube.com/watch?v=5vNe2up7Gp0 
+
 ### Group Members: Jacob Mielczarek, Pranav Mishra, Alexa Osuna
 
 This project is a simple game where multiple players must cooperate to accomplish a shared goal and win the game. A group of two to three players must work together to damage the motherboard/CPU. There are two ways to accomplish this task. (1) Deliver a high power surge directly to the CPU causing it to overheat and explode. (2) Stop the cooling fan from spinning, thereby, overheating and damaging the CPU. If either of these has been achieved, the final game question appears on screen and the game is over.
